@@ -20,6 +20,6 @@ ORM choice justification:
 
 ![image](https://github.com/petya3000/GalleryApp/assets/99812822/697bef94-33bd-467b-bcbb-3129a36a73d5)
 
-#Main screens:
+# Main screens:
 
 ![image (2)](https://github.com/petya3000/GalleryApp/assets/99812822/9063ff57-6887-4b50-a5d6-9cf6510307a4)
