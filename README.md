@@ -14,7 +14,7 @@ Stack:
 ORM choice justification:
 - Perfomance: Room has the highest perfomance compared to it's main competitors, such as GreenDAO, SQLite, Requery, ORMLite etc.
 - Convenience: Despite the popular opinion, that explicit SQL-requests aren't really easy to use, I consider it quite convinient.
-- Additional functionality: Room provides ability to use Flows, which is a good decision for transporting data.
+- Additional functionality: Room provides ability to use Flows, which is a good decision for data transporting.
 
 # Auth screens:
 
