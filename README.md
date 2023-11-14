@@ -17,7 +17,7 @@ ORM choice justification:
 - Additional functionality: Room provides ability to use Flows, which is a good decision for transporting data.
 
 # Auth screens:
-<img src="https://github.com/petya3000/GalleryApp/assets/99812822/a9fe70aa-430c-47d0-9937-9bc4482dbf94" width="900" height="750"/>
+<img src="https://github.com/petya3000/GalleryApp/assets/99812822/a9fe70aa-430c-47d0-9937-9bc4482dbf94" width="800" height="750"/>
 
 #Main screens:
 
